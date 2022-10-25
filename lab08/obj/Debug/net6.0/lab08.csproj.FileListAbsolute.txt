@@ -1,0 +1,15 @@
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.csproj.AssemblyReference.cache
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.GeneratedMSBuildEditorConfig.editorconfig
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.AssemblyInfoInputs.cache
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.AssemblyInfo.cs
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.csproj.CoreCompileInputs.cache
+/Users/erhodess3/401/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08
+/Users/erhodess3/401/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.deps.json
+/Users/erhodess3/401/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.runtimeconfig.json
+/Users/erhodess3/401/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.dll
+/Users/erhodess3/401/Lab08_Codealong/lab08/bin/Debug/net6.0/lab08.pdb
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.dll
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/refint/lab08.dll
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.pdb
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/lab08.genruntimeconfig.cache
+/Users/erhodess3/401/Lab08_Codealong/lab08/obj/Debug/net6.0/ref/lab08.dll
